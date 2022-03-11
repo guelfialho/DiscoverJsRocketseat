@@ -1,0 +1,1 @@
+console.log("A soma das notas é:" 10+15+20);
